@@ -1,0 +1,15 @@
+2. Fluid flowing around obstacles
+3. Vortex street generator
+5. Live CFD visualizer
+parallel computing
+imgui
+Air jet / nozzle 
+. Impeller / centrifugal pump
+Two opposing nozzles
+Two counter-rotating vortex generators
+Interactive fluid maze
+Two opposing fans
+Cylinder + incoming flow
+2. Movable solid objects
+1. Rotating fan
+
