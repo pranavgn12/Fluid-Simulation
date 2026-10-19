@@ -2,6 +2,7 @@
 Fluid Simulation using Navier–Stokes equation
 Raylib version used: raylib-6.0_linux_amd64
 
+Made with help of ChatGPT
 
 **Fluid interacted with mouse**
 
